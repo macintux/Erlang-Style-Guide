@@ -1,4 +1,4 @@
-Erlang-Style-Guide
+Erlang Style Guide
 ==================
 
 Goal: smash http://www.erlang.se/doc/programming_rules.shtml and
