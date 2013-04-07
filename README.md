@@ -9,6 +9,9 @@ Possible topics:
 
 * Code style (indentation, short functions, avoid if/case, etc)
 * Commenting style (including edoc)
+* Data structures
+* Common reasons to use ETS, DETS, Mnesia
+* Communications patterns
 * Processes for state management
 * OTP patterns
 * Other common Erlang patterns
